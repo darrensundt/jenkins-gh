@@ -1,1 +1,2 @@
 echo "COMMAND.CMD"
+echo "2ND COMMIT"
